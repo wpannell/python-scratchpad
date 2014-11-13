@@ -1,3 +1,5 @@
 superlists/db.sqlite3
+superlists/lists/__pycache__/
+superlists/superlists/__pycache__/
 .DS_Store
 .idea
